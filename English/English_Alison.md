@@ -208,3 +208,68 @@
             - 1_0000_000 $
         - Last year:
             - 10_000_000 $
+
+- 2023-06-20:
+    5-Comparisons:
+        - Big difference:
+            - We made the house much bigger
+            - It's a lot easier to keep clean and tidy
+            - Houses became far more expensive
+            - Houses were far too expensive
+        - Small difference:
+            - I would like to make the house a bit more space
+            - I would like to move to a slightly safer neighborhood
+        - Negative small difference:
+            - We are not quite as fit as we were
+        - Negative big difference:
+            - It's not nearly cheap enough
+            - Landlords didnt have nearly enough money for repairs
+        - Suprising, small:
+            - Many house were even crowed
+    6-Air traffic control:
+        - bin bean
+        - chip cheap
+        - fill feel
+        - fit feet
+        - live leave
+        - sit seat
+    Preferences:
+        - I'd rather be up in the mountains
+        - I'd prefer to stay at home
+        - I'd go for this place, if it was just up to me
+        - I think this place looks much more interesting
+        - It looks like the kind of place I'd love
+        - It's my kind of place
+        - I dont have any strong feelings either way
+    Giving reasons:
+        - It would be more fun
+        - You'd be able escape the crowds
+        - You'd be stuck in one place
+        - You could probably go diving there
+        - I like the idea of doing nothing for a week
+        - I've heard some good things about it
+
+
+- 2023-07-06:
+    3A:
+        e: Thanks for email re induction day.
+        d: Sorry.
+        g: I'm not free Thursday.
+        a: Going to conference.
+        c: Can go Friday.
+        b: But may be late Friday.
+        f: Dentist appointment at 8.30 that day.
+    3B: |
+        Dear Mr. Greg,
+
+        Thank you for your email.
+
+        I'm writing to inform you that I can attend the induction day on Friday.
+        I'm not free Thursday because I'm going to attend a conference all day. I can join on Friday. However, I have a dentist appointment at 8.30 that day. So, I may be late and I could be at the factory at 10 am.
+        
+        I apologize for the inconvenient. I look forward to hearing from you.
+
+        Best regards,
+        Hung
+
+    

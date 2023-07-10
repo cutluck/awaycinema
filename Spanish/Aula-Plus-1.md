@@ -25,13 +25,14 @@ Aula Plus 1:
     Preguntas:
       - Como se dice?
       - Que significa?
-      - Come se pronuncia?
+      - Como se pronuncia?
       - Como se escribe?
       - Puedes repetir?
       - Hablas ingles?
       - No entiendo
       - No comprendo
       - No lo se
+      - No lo conozco
   1-Nosotros-y-Nosotras:
     Quien:
       - Me llamo Akira
@@ -227,3 +228,5 @@ Aula Plus 1:
       Cuantos Cuantas
       Que
       Cual Cuales
+      Quien
+      Cuando
